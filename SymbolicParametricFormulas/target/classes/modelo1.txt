@@ -1,0 +1,8 @@
+G1: G1 DESCRIPTION [G1 runtime annotation]
+	G2: G2 DESCRIPTION [G2 runtime annotation]
+		T1: T1 DESCRIPTION [T1 runtime annotation]
+		T2: T2 DESCRIPTION [T2 runtime annotation]
+	G3: G3 DESCRIPTION [G3 runtime annotation]
+		T1: T1 DESCRIPTION [T1 runtime annotation]
+	G4: G4 DESCRIPTION [G4 runtime annotation]
+		T1: T1 DESCRIPTION [T1 runtime annotation]
